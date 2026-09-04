@@ -1,5 +1,9 @@
-## Hi there 👋
 
+About me
+
+## Emily Carreon-Elisea ##
+## B.S In Cybersecurity ##
+## Im interested in collaborating my knowledge with Python in Cybersecurity 
 <!--
 **Emily-0309/Emily-0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
